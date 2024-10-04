@@ -1,0 +1,100 @@
+'''
+if 5 > 2:
+    print("five is greater than two")
+
+#print("Hello World!")
+
+
+x=6
+y="babu"
+print(x)
+print(y)
+
+x=6
+x="babu"
+print(x)
+'''
+
+'''
+x=str(3)
+y=int(3)
+z=float(3)
+
+print(x)
+print(y)
+print(z)
+'''
+'''
+x=9
+y="sura"
+print(type(x))
+print(type(y))
+'''
+'''
+x=9.1
+y="sura"
+print(type(x))
+print(type(y))
+
+
+a=66
+A="sumesh"
+print(a)
+print(A)
+'''
+
+'''
+appu="john"
+2appu="jonh"
+'''
+#print(appu)
+
+'''
+x,y,z="orange" ,"banana","apple"
+print(x,y,z)
+'''
+'''
+x=y=z="orange"
+print(x)
+print(y)
+print(z)
+
+
+
+x="python "
+y= "is "
+z= "good "
+print(x + y + z)
+
+
+
+username=input("Enter username:")
+print("username is:"+ username)
+
+'''
+'''
+a="hello "
+b="world"
+c=a+b
+print(c)
+
+
+
+a="Hello, world"
+print(a[0])
+
+print(a[1])
+
+print(a[6])
+print(a[4])
+
+
+b="hello world"
+print(b[2:5])
+
+
+
+b="hello world"
+print(b[:5])
+
+'''

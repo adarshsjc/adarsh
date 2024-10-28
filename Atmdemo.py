@@ -1,3 +1,22 @@
+'''
+Author:Adarsh v
+Date:28/10/24
+Description:Write a program that simulates a simple bank ATM system.
+The user has an initial balance of $1000. The ATM should display a menu with options to:
+
+    Check Balance
+    Deposit Money
+    Withdraw Money
+    Exit
+
+The program should run in a loop until the user chooses to exit.
+For each option, use if, elif, and else to manage each choice.
+Ensure that the balance doesn’t go below zero during a withdrawal.
+'''
+
+
+
+
 balance_amount=1000
 while True:
     print("1.\tCheck balance")
